@@ -1,0 +1,10 @@
+.profpage {
+    display: flex;
+    flex-direction: column;
+}
+
+.pagecontent {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
